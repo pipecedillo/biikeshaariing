@@ -30,3 +30,6 @@ We can see there's more Male riders than Female riders.
 
 We found out the Males are the ones who use the bike service the most, it would be a good idea to see why there's this gender gap.
 The service is mainly use for going or coming off work and from people living in the zone.
+
+# LINK TO MY PUBLIC TABLEAU
+[link to dashboard]https://public.tableau.com/app/profile/felipe3877
